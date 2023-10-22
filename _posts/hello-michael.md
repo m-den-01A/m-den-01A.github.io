@@ -19,7 +19,7 @@ This is an example paragraph. Add content here for the first paragraph. Introduc
 * Four
 
 ```javascript
-console.log('example MD codeblock for javascript');
+console.log('example MD codeblock section for javascript');
 ```
 
 ```yml
