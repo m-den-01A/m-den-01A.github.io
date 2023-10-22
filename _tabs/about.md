@@ -9,6 +9,6 @@ order: 4
 
 # Education and Certifications
 
-![img-description][def]
-
-[def]: /assets/mspp-badge-150x150.png
+![power-platform-grad-badge](/assets/mspp-badge-150x150.png)
+![UNG-logo](/assets/ung-logo-small.jpg)
+![UWF-logo](/assets/uwf-logo-small.png)
