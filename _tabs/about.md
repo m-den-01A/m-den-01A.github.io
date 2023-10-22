@@ -9,4 +9,6 @@ order: 4
 
 # Education and Certifications
 
-![img-description]()
+![img-description][def]
+
+[def]: /assets/mspp-badge.png
