@@ -9,12 +9,4 @@ order: 4
 
 # Education and Certifications
 
-<p float="left">
-  <img src="../assets/uwf-logo-small.png" width="33%" />
-  <img src="../assets/mspp-badge-150x150.png" width="33%" />
-  <img src="../assets/ung-logo-small.jpg" width="33%" />
-</p>
-
-![uwf-logo](../assets/uwf-logo-small.png)
-![power-platform-grad-badge](../assets/mspp-badge-150x150.png)
-![ung-logo](../assets/ung-logo-small.jpg)
+|![uwf-logo](../assets/uwf-logo-small.png) | ![power-platform-grad-badge](../assets/mspp-badge-150x150.png) | ![ung-logo](../assets/ung-logo-small.jpg) |
