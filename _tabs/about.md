@@ -11,4 +11,12 @@ order: 4
 
 ![img-description][def]
 
-[def]: /assets/mspp-badge.png
+[def]: /assets/mspp-badge-150x150.png
+
+![img-description][def]
+
+[def]: /assets/ung-logo-small.jpg
+
+![img-description][def]
+
+[def]: /assets/uwf-logo-small.png
