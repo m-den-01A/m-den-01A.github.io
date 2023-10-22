@@ -37,5 +37,3 @@ on:
 
 ## Photos
 
-![img-description](https://pbs.twimg.com/media/FJAFshwXoAEf9HV?format=jpg&name=large)
-_example photo_
