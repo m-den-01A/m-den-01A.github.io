@@ -7,7 +7,7 @@ tags: [postexample, postpractice]   # TAG names should always be lowercase
 
 # Welcome
 
-Hello and welcome to my portfolio site!
+Hello and welcome to my portfolio site.
 
 This is an example paragraph. Add content here for the first paragraph. Introductory info is good to add here. 
 
